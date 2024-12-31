@@ -1,1 +1,1 @@
-# example-3d--panolens
+# example-3d-panolens
